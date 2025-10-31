@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locations">
+        <item>Building A - Room 101</item>
+        <item>Building A - Room 102</item>
+        <item>Building A - Lab 105</item>
+        <item>Building B - Room 201</item>
+        <item>Building B - Room 202</item>
+        <item>Building B - Lab 205</item>
+        <item>Building C - Office 301</item>
+        <item>Building C - Office 302</item>
+        <item>Building C - Conference Room 305</item>
+        <item>Library - Main Floor</item>
+        <item>Library - Study Room 1</item>
+        <item>Cafeteria</item>
+        <item>Auditorium</item>
+        <item>Gymnasium</item>
+        <item>IT Department</item>
+        <item>Administration Office</item>
+    </string-array>
+
+    <string-array name="conditions">
+        <item>Good</item>
+        <item>Fair</item>
+        <item>Poor</item>
+        <item>Damaged</item>
+        <item>Out of Service</item>
+    </string-array>
+</resources>
